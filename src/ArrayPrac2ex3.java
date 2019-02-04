@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ArrayPrac2ex3 {
     public static void main(String[] args){
-        String[] arr = new String[10];
+        String[] arr = {"","","","","","","","","",""};
         int x;
         int y;
         boolean duplicate;
